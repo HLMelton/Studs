@@ -1,14 +1,7 @@
 ## Studs React Webapp
 
-Studs Webapp Base React Application
+Studs Solidity smart contracts
 
-```
-git clone <this-repo>
+Waiting for API integration into MonkeSend application.
 
-npm i
-npm start
-```
-
-
-
-You call this a repo? there isnt even any code, which I know you have 
+Also awaiting Frontend to be built out. Readme will be revisited upon build
