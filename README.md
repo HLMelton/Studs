@@ -2,6 +2,5 @@
 
 Studs Solidity smart contracts
 
-Waiting for API integration into MonkeSend application.
-
-Also awaiting Frontend to be built out. Readme will be revisited upon build
+Awaiting conversion to Next JS using Bun as JS Runtime. 
+- T3 Stack is the current top contender for the stack due to edge compatibility. (Props to Theo)
